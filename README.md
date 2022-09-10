@@ -12,6 +12,8 @@ My task was to develop a marketing strategy for their company by analyzing their
 
 The data was collected from forage.
 
+[KPMG_VI_New_raw_data_update_final1.xlsx](https://github.com/Richa-Chamoli/KPMG-Virtual-Internship/files/9540684/KPMG_VI_New_raw_data_update_final1.xlsx)
+
 The data consists of four data sets:
 
     Transactions
@@ -20,7 +22,6 @@ The data consists of four data sets:
     Customer address
 
 # Project Objective:
-[KPMG_VI_New_raw_data_update_final1.xlsx](https://github.com/Richa-Chamoli/KPMG-Virtual-Internship/files/9540684/KPMG_VI_New_raw_data_update_final1.xlsx)
 
 
 * Data Quality Assessment: 
