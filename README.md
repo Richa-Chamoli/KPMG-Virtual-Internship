@@ -5,8 +5,8 @@ My task was to develop a marketing strategy for their company by analyzing their
 
 # Project Tools:
 
-    Ms-Excel
-    Power BI
+    Ms-Excel (For cleaning the data)
+    Power BI (For ETL process and visualization)
 
 # Data Source:
 
@@ -35,14 +35,17 @@ All blank, missing and n/a values can be removed which constitutes a very small 
 Build relationships between different tables based on same columns and develop a model.
 
 * Data Insights and Presentation:
-All the transformed data is changed to visuals by creating an interactive dashboard in Power BI.
+All the transformed data should be changed to visuals by creating an interactive dashboard in Power BI.
 
 # Final Dashboard
+[KPMG project-1.pdf](https://github.com/Richa-Chamoli/KPMG-Virtual-Internship/files/9544090/KPMG.project-1.pdf)
+
+
 
 # Conclusion
 
-* The age group between 40-45 is bringing most profit to the company
-* Most buyers are female so company should focus more on females.
-* Top 3 industries are Financial Services, Manufacturing and Health.
-* Maximum buyers are from New South Wales.
-* Most liked brand by customers is Solex and weareA2B.
+* The females in the age group of 40-50 are the loyal customers who purchased the most in last 3 years.
+* The target customers among the 1000 new customers.
+* Most customers are from New South Wales.
+* Top 5 brands which are bringing most profit.
+* The maximum profit was recorded in the month of october.
