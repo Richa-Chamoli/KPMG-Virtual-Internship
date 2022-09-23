@@ -22,8 +22,9 @@ The data consists of four data sets:
     Customer address
 
 # Project Objective:
+  Create an interactive dashboard which will help in making an effective marketing strategy.
 
-
+# Tasks Performed
 * Data Quality Assessment: 
 After the initial assessment of the data, I found some issues with the data which are as follows:
 Inconsistent variables for same attributes in different columns(F, Femal, Female for Female and M and Male for Male which can be written as Male and Female only.
